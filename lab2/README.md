@@ -16,5 +16,5 @@
 </Div>
 <br />
 <Div align="center">
-  <img src="" width="200px"
+  <img src="https://github.com/SilasRSA/Mobile/assets/79548192/bf087f8f-ee87-4295-9bfb-1bfb541c3049" width="200px"
 </Div>
