@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, StyleSheet, Header, Content, Form, Item, Input, Text } from 'native-base';
+import { Container, StyleSheet, Header, Content, Form, Item, InputText, Text } from 'native-base';
 
 export default function app() {
   const [name, setName] = useState('');
@@ -10,7 +10,7 @@ export default function app() {
         <Text style={{fontWeight:'bold'}}>What is your name?</Text>
         <Form>
           <Item last> 
-            <Input 
+            <InputText
               placeholder='John Bunyan'
               onChangeText={text => setName(text)}
             />
