@@ -3,3 +3,7 @@ um input text e um label para esse input de tal forma que quando o usuário digi
 algo neste input, o valor do input deve ser capturado e escrito em um componente
 textual da aplicação conforme ilustra a figura que se segue:
 
+<Div>
+  <img src="![img-1](https://github.com/SilasRSA/Mobile/assets/79548192/72d23a05-358c-4819-ae46-0f43295d45b9)" width="300px" />
+</Div>
+
