@@ -1,4 +1,4 @@
-<H3>Implementação de uma calculador em React Native. A seguir estão imagens do projeto
+<H3>Implementação de uma calculadora em React Native. A seguir estão imagens do projeto
 em desenvolvimento.
 </H3>
 <Div align="center">
